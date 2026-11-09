@@ -1,0 +1,6 @@
+{
+  "name": "PREPULSE",
+  "description": "Don't diagnose. Don't guess. Capture what matters. A bystander-to-responder emergency information handoff assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
